@@ -14,3 +14,4 @@ def multiplica(*args):
 
 
 print("El resultado total es: {}".format(multiplica(num1, num2, 10, 2, 1000)))
+print("Modulo I")
